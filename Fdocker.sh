@@ -20,6 +20,6 @@ curl -L "https://github.com/docker/compose/releases/download/v2.17.2/docker-comp
 ## Apply executable permissions to the Docker Compose binary
 chmod +x /usr/local/bin/docker-compose
 
-#Release note: https://github.com/docker/compose/releases
+# Release note: https://github.com/docker/compose/releases
 # intiinside@protonmail.com :)
 
